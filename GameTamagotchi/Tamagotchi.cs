@@ -24,7 +24,7 @@ namespace TamagotchiPlay
             {
                 if (Health <= 0)
                 {
-                    Console.WriteLine("К сожалению, Вы проиграли.");
+                    Console.WriteLine("К сожалению, Вы проиграли");
                 }
                 else
                 {
